@@ -1,1 +1,0 @@
-# apigw-parser-mock
